@@ -16,5 +16,5 @@ This place will change with info in the coming time, so feel free to complain to
 
 ### Back connector
 
-![Drawing of back connector](https://github.com/Fairphone/Drawings/raw/Drawings/back-connector.jpg "drawing of back connector")
+![Drawing of back connector](https://github.com/dirkvl/FairPhone/blob/master/Drawings/back-connector.JPG "drawing of back connector")
 
