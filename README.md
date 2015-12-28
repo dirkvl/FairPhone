@@ -1,4 +1,4 @@
-### FairPhone
+# FairPhone
 
 Ok! So here you are, all the way to my github. Good job, 10 points to you!
 
