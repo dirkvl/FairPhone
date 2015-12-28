@@ -19,7 +19,7 @@ This place will change with info in the coming time, so feel free to not complai
 When you are looking from the back of the phone you see 5 pogo pins. With a multimeter and some trial&error you can find the following info:
 
 ```
-(1)  (2)
+(1) (2)
   (3)
 (4) (5)
 
