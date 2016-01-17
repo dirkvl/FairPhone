@@ -24,7 +24,7 @@ When you are looking from the back of the phone you see 5 pogo pins. With a mult
 (4) (5)
 
 1) vbus
-2) no idea
+2) power in
 3) gnd
 4) d+
 5) d-
