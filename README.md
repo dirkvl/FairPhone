@@ -30,7 +30,7 @@ When you are looking from the back of the phone you see 5 pogo pins. With a mult
 4) d+
 5) d-
 ```
-It has the following dimensions.
+It has the following dimensions:
 
 <img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/back-connector.JPG" width="300">
 
@@ -49,3 +49,5 @@ The area above the battery however you can totally use.
 ### 3D printed casings
 
 Currently available [here](https://www.shapeways.com/shops/funkyotherhalf). 
+
+<img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/yellowwhite.JPG">
