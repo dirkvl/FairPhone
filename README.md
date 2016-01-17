@@ -32,7 +32,6 @@ When you are looking from the back of the phone you see 5 pogo pins. With a mult
 ```
 It has the following dimensions.
 
-![Drawing of back connector](https://github.com/dirkvl/FairPhone/blob/master/Drawings/back-connector.JPG "drawing of back connector"align="left" height="48" width="48")
 <img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/back-connector.JPG" width="300">
 
 ### Available space
