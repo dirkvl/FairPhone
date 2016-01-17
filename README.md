@@ -46,3 +46,6 @@ The area above the battery however you can totally use.
 
 ![Available space](https://github.com/dirkvl/FairPhone/blob/master/Drawings/availablespace.png "Available space")
 
+### 3D printed casings
+
+Currently available [here](https://www.shapeways.com/shops/funkyotherhalf). 
