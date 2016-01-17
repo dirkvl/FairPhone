@@ -32,3 +32,7 @@ When you are looking from the back of the phone you see 5 pogo pins. With a mult
 
 ![Drawing of back connector](https://github.com/dirkvl/FairPhone/blob/master/Drawings/back-connector.JPG "drawing of back connector")
 
+### Available space
+
+![Available space](https://github.com/dirkvl/FairPhone/blob/master/Drawings/availablespace.png "Available space")
+
