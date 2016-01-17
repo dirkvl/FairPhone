@@ -6,11 +6,12 @@ This place will change with info in the coming time, so feel free to not complai
 
 ## Opening statements
 
-1. I do not work at (or for) Fairphone
+1. I do NOT work at (or for) Fairphone
 2. This is my community/developer point of view
 3. You will not complain about wrong or missing info here
 4. All info here you could have found out yourself
-5. Maybe I will not share all info I have for good reasons
+5. Maybe I will not share all info I have, for reasons
+6. THIS IS NOT AN OFFICIAL FAIRPHONE PAGE
 
 ## Random unsorted information
 
