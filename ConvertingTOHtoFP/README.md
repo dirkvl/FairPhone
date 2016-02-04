@@ -24,7 +24,7 @@ If one has developed a JollaTOH and wants to convert this to a Fairphone casing,
 
 [For sale here](http://nl.mouser.com/ProductDetail/FTDI/FT201XS-R/?qs=sGAEpiMZZMvVkErl6zY%252bqa9cSQ2nub9D) among other places.
 
-<img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/FT201X.JPG">
+<img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/FT201X.jpg">
 
 ## Commands
 
