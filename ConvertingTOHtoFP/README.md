@@ -20,7 +20,9 @@ USB is a protocol intended for the use of peripherals, like a mouse/keyboard/tou
 
 If one has developed a JollaTOH and wants to convert this to a Fairphone casing, the most straightforward way to do this is using an FTDI bridge <LINK>. 
 
-FTDI makes a lot of very fancy microcontrollers, of which we will need a USB-I2C bridge. This is a ic that has the USB protocol built in and has an I2C line out to connect the rest of the electronics. 
+[FTDI](http://www.ftdichip.com) makes a lot of very fancy microcontrollers, of which we will need a [USB-I2C bridge like the FT201X](http://www.ftdichip.com/Products/ICs/FT201X.html). This is a ic that has the USB protocol built in and has an I2C line out to connect the rest of the electronics. 
+
+<img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/FT201X.JPG">
 
 ## Commands
 
