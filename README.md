@@ -14,6 +14,14 @@ This place will change with info in the coming time, so feel free to not complai
 6. THIS IS NOT AN OFFICIAL FAIRPHONE PAGE
 7. Add info if you have it
 
+## Goals
+
+- Get moar peoplez developing
+- Getting other people to add infoz here
+- Give peoplez a headstart
+- Persuade Fairphone to leak infoz
+- Have a place for myself to gather data
+
 ## Topics
 
 ### 3D printed casings
