@@ -26,6 +26,7 @@ If one has developed a JollaTOH and wants to convert this to a Fairphone casing,
 
 <img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/FT201X.jpg">
 
+Or go for something fancier like the FT31X and use the [FTDI Android programmer guide](http://www.ftdichip.com/Support/Documents/ProgramGuides/FT31XD_Android_programmer_guide%28FT_000532%29.pdf)!
 ## Commands
 
 -moar info later-
