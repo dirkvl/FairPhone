@@ -4,7 +4,9 @@
 
 [LINK TO ORIGINAL](https://github.com/dirkvl/FairPhone/issues/2#issuecomment-179817946)
 
-```
+By Aypac:
+
+
 Finally had time to do some measuring. All Bat-Voltages are taken by removing the bat from the phone.
 
 Case a)
@@ -41,4 +43,3 @@ My personal understanding of this is, that there is a Schottky diode (or somethi
 Charge is always at 0V. With a conductivity test I get a reading of about 1.4V for the voltage drop between the Charge-pin and Bat+. This lets me believe, that there is some kind of regulator in between.
 
 Surprisingly I got an almost perfect conductivity test between (GND)->(VBUS). This might be some kind of protection against wrong polarisation? But that would fry the PCB if enough power was connected, right? Nothing like that between (GND) and (Charge).
-```
