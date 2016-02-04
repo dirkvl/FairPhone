@@ -2,15 +2,13 @@
 
 ## Que?
 
-The Jolla phone -LINK- introduced the OtherHalf concept. Casings with extending functionality can be added on the back of the phone and have the possibilty to connect directly to the phone over I2C. Additionally there is a power in and out.
+The Jolla phone introduced [the OtherHalf concept](http://jolla.com/the-other-half/). Casings with extending functionality can be added on the back of the phone and have the possibilty to connect directly to the phone over I2C. Additionally there is a power in and out.
 
 Fairphone has a similar concept (how very original!) but instead uses USB. This opens up some doors, but makes some other doors a little harder to open.
 
 ## I2C on Jolla TOH
 
--LINK to JollaTOH page-
-
-I2C -LINK- is a protocol developed in Holland (Whoop Whoop!) by Philips and is intended for embedded electronics (chips on the same PCB) to speak with each other. 
+[I2C](https://en.wikipedia.org/wiki/I%C2%B2C) is a protocol developed in Holland (Whoop Whoop!) by Philips and is intended for embedded electronics (chips on the same PCB) to speak with each other. 
 
 ## USB on Fairphone
 
