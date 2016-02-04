@@ -2,7 +2,7 @@
 
 ## Thanks to Aypac
 
--LINK TO https://github.com/dirkvl/FairPhone/issues/2#issuecomment-179817946 -
+[LINK TO ORIGINAL](https://github.com/dirkvl/FairPhone/issues/2#issuecomment-179817946)
 
 ```
 Finally had time to do some measuring. All Bat-Voltages are taken by removing the bat from the phone.
