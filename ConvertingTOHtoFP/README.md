@@ -29,4 +29,4 @@ If one has developed a JollaTOH and wants to convert this to a Fairphone casing,
 Or go for something fancier like the FT31X and use the [FTDI Android programmer guide](http://www.ftdichip.com/Support/Documents/ProgramGuides/FT31XD_Android_programmer_guide%28FT_000532%29.pdf)!
 ## Commands
 
--moar info later-
+[Totally check this](http://www.ftdichip.com/Support/Documents/AppNotes/AN_255_USB%20to%20I2C%20Example%20using%20the%20FT232H%20and%20FT201X%20devices.pdf)
