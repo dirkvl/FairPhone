@@ -22,6 +22,8 @@ If one has developed a JollaTOH and wants to convert this to a Fairphone casing,
 
 [FTDI](http://www.ftdichip.com) makes a lot of very fancy microcontrollers, of which we will need a [USB-I2C bridge like the FT201X](http://www.ftdichip.com/Products/ICs/FT201X.html). This is a ic that has the USB protocol built in and has an I2C line out to connect the rest of the electronics. 
 
+[For sale here](http://nl.mouser.com/ProductDetail/FTDI/FT201XS-R/?qs=sGAEpiMZZMvVkErl6zY%252bqa9cSQ2nub9D) among other places.
+
 <img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/FT201X.JPG">
 
 ## Commands
