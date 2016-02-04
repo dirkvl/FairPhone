@@ -24,24 +24,26 @@ Ground. (thank you captain obvious!)
 #### D+/D-
 Data lines for USB. Use some nice series resistors to limit current.
 
+## Connector drawing
+
 It has the following dimensions:
 
 <img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/back-connector.JPG" width="300">
 
 ### Behind the back connector
 
-<Assumptions>
+Assumptions
 - It has a separate step-up circuit to 5V
 - There is a 5.5V zener diode behind both pin1 and pin2 connected to ground to protect for overvoltage.
 - VBUS will not accept power in (since there is a dedicated charge pin)
 - Charge pin will accept anything between 4.5V and 5.5V up to 1A
 - There is no MPPT, making solar panels practically impossible.
-</Assumptions>
+/Assumptions
 
-<Confirmed>
+Confirmed
 - USB2.0
 - 500ma
-</Confirmed>
+/Confirmed
 
 ### Available space
 
@@ -56,7 +58,7 @@ The area above the battery however you can totally use.
 ![Available space](https://github.com/dirkvl/FairPhone/blob/master/Drawings/availablespace.png "Available space")
 
 ### Behind regular USB port
-<insert info>
+insert info
 
 ### Behind 3.5mm Jack
-<insert info>
+insert info

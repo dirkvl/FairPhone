@@ -46,19 +46,19 @@ Medium tone. Works well with the black,white,green&yellow. (in my opinion of cou
 
 <dont forget to ask shapeways about colouring stuff>
 
-## Other designs
+# Other designs
 
-### Battery casing
+## Battery casing
 
 The battery casing has a hump on the back where and extra Fairphone battery fits in to take on the go. There is no extra electronics inside, just to bring extra battery.
 <LINK>
 
-### Insane-O-Bright
+## Insane-O-Bright
 
 Currently under development.
 
 <LINK TO FORUM PAGE>
 
-### Other stuff? Ideas?
+## Other stuff? Ideas?
 
 Have something you would like to see? Mail me at dirk@vlman.com and we'll see if we can work something out!

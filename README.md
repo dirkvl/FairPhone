@@ -14,17 +14,32 @@ This place will change with info in the coming time, so feel free to not complai
 6. THIS IS NOT AN OFFICIAL FAIRPHONE PAGE
 7. Add info if you have it
 
-## Subjects
+## Topics
+
+### 3D printed casings
+
+[LINK TO SUBFOLDER](https://github.com/dirkvl/FairPhone/tree/master/3DCasings)
+
+Currently available [here](https://www.shapeways.com/shops/funkyotherhalf). 
+
+<img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/yellowwhite.JPG" width="400">
+
+### TOH to FP
+
+From Jolla community there was a request to make some guide to adapt current Jolla TOH designs to Fairphone casings.
+
+[LINK to request on twitter to compare the two and adapt](https://twitter.com/StefaBrand/status/693498456338501632)
+
+[LINK to subfolder](https://github.com/dirkvl/FairPhone/tree/master/ConvertingTOHtoFP)
 
 ### Back connector and other electronics
 
 Contains information about the backconnector and its dimensions, as well as some data about whats behind it.
-<LINK TO SUBFOLDER>
 
-### 3D printed casings
+[LINK TO SUBFOLDER](https://github.com/dirkvl/FairPhone/tree/master/Electronics)
 
-<LINK TO SUBFOLDER>
+### Reference design
 
-Currently available [here](https://www.shapeways.com/shops/funkyotherhalf). 
+For myself and later others I am making some reference design for hardware extensions.
 
-<img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/yellowwhite.JPG">
+[LINK to subfolder](https://github.com/dirkvl/FairPhone/tree/master/ReferenceDesign)
