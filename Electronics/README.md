@@ -16,7 +16,7 @@ When you are looking from the back of the phone you see 5 pogo pins. With a mult
 5) d-
 ```
 #### VBUS
-5V power out, always on. <LINK TO MEASUMENTS>
+5V power out, always on. [LINK TO MEASUMENTS by Aypac](https://github.com/dirkvl/FairPhone/tree/master/Electronics/Measurements)
 #### CHRG
 Dedicated power input. Will love some 5V.
 #### GND
@@ -38,11 +38,13 @@ Assumptions
 - VBUS will not accept power in (since there is a dedicated charge pin)
 - Charge pin will accept anything between 4.5V and 5.5V up to 1A
 - There is no MPPT, making solar panels practically impossible.
+
 /Assumptions
 
 Confirmed
 - USB2.0
 - 500ma
+
 /Confirmed
 
 ### Available space
