@@ -29,15 +29,21 @@ If stated, certain files and data may only be available under a licence, meaning
 
 ### 3D printed casings
 
+Will feature some different designs to either print as-is or use as a base for future projects.
+
 [LINK TO SUBFOLDER](https://github.com/dirkvl/FairPhone/tree/master/3DCasings)
 
 Currently available [here](https://www.shapeways.com/shops/funkyotherhalf). 
 
 ### Keepout areas
 
+Certain parts of the phone cannot be used when designing a hardware extension. 
+
 -LINK-
 
 ### Power management
+
+Information about getting power out of the phone and pushing it back in.
 
 -LINK-
 
