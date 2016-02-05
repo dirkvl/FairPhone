@@ -13,7 +13,7 @@ Welcome on the community dev-kit github for the Fairphone!
 
 You are free to share all the information provided here, as longs as you don't profit from it in any way.
 
-I am not liable for any damages done by correct or incorrect implementation of correct or incorrect information found here.
+I can not be held liable for any damages done by correct or incorrect implementation of correct or incorrect information found here.
 
 Incorrect or unwanted data can at any point be requested to be taken down by Fairphone.
 
@@ -24,7 +24,7 @@ If stated, certain files and data may only be available under a licence, meaning
 - Get more people involved in developing
 - Inviting other people to add info here
 - Give people a headstart on their project
-- Persuade Fairphone to leak infoz
+- Persuade Fairphone to release/leak info
 - Have a place for myself to gather data
 
 ### 3D printed casings
