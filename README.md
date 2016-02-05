@@ -33,8 +33,6 @@ If stated, certain files and data may only be available under a licence, meaning
 
 Currently available [here](https://www.shapeways.com/shops/funkyotherhalf). 
 
-<img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/yellowwhite.JPG" width="400">
-
 ### Keepout areas
 
 -LINK-

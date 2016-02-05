@@ -1,5 +1,7 @@
 # Casings for 3D printing
 
+<img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/yellowwhite.JPG" width="600">
+
 ## The design
 
 The design is a two-parter, to slide on from the bottom and top. 
