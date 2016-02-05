@@ -1,28 +1,31 @@
 # FairPhone
 
-Ok! So here you are, all the way to my github. Good job, 10 points to you!
-
-This place will change with info in the coming time, so feel free to not complain to me when any info is missing or is wrong.
+Welcome on the community dev-kit github for the Fairphone!
 
 ## Opening statements
 
 1. I do NOT work at (or for) Fairphone
-2. This is my community/developer point of view
-3. You will not complain about wrong or missing info here
-4. All info here you could have found out yourself
-5. Maybe I will not share all info I have, for reasons
-6. THIS IS NOT AN OFFICIAL FAIRPHONE PAGE
-7. Add info if you have it
+2. All information is from a community/developer point of view
+3. THIS IS NOT AN OFFICIAL FAIRPHONE PAGE
+4. You will add or correct info if you can
+
+## Terms of use
+
+You are free to share all the information provided here, as longs as you don't profit from it in any way.
+
+I am not liable for any damages done by correct or incorrect implementation of correct or incorrect information found here.
+
+Incorrect or unwanted data can at any point be requested to be taken down by Fairphone.
+
+If stated, certain files and data may only be available under a licence, meaning you will not be permitted to use it to make profits.
 
 ## Goals
 
-- Get moar peoplez developing
-- Getting other people to add infoz here
-- Give peoplez a headstart
+- Get more people involved in developing
+- Inviting other people to add info here
+- Give people a headstart on their project
 - Persuade Fairphone to leak infoz
 - Have a place for myself to gather data
-
-## Topics
 
 ### 3D printed casings
 
@@ -32,9 +35,17 @@ Currently available [here](https://www.shapeways.com/shops/funkyotherhalf).
 
 <img src="https://github.com/dirkvl/FairPhone/blob/master/Drawings/yellowwhite.JPG" width="400">
 
+### Keepout areas
+
+-LINK-
+
+### Power management
+
+-LINK-
+
 ### TOH to FP
 
-From Jolla community there was a request to make some guide to adapt current Jolla TOH designs to Fairphone casings.
+In the Jolla community there was a request to make a guide to adapt current Jolla TheOtherHalf designs to Fairphone casings. Additionally to adapting TOH designs, this can be used to easily connect any I2C, SPI, UART or serial slave devices to the phone.
 
 [LINK to request on twitter to compare the two and adapt](https://twitter.com/StefaBrand/status/693498456338501632)
 
@@ -48,6 +59,6 @@ Contains information about the backconnector and its dimensions, as well as some
 
 ### Reference design
 
-For myself and later others I am making some reference design for hardware extensions.
+To speed up development and prevent duplication of efforts all around there will be multiple reference designs available later for different applications.
 
 [LINK to subfolder](https://github.com/dirkvl/FairPhone/tree/master/ReferenceDesign)
